@@ -368,3 +368,4 @@ This project emphasizes:
 ### ✔ Accurate performance evaluation
 
 ### ✔ Flexibility for any job role
+**The goal was to create a supportive, intelligent, and practical interview assistant that not only evaluates you — but helps you grow, improve, and gain confidence.**
